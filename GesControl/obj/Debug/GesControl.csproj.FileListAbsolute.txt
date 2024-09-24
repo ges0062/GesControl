@@ -1,0 +1,16 @@
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\bin\Debug\GesControl.dll.config
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\bin\Debug\GesControl.dll
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\bin\Debug\GesControl.pdb
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.csproj.AssemblyReference.cache
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.DashBoard.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.FlowPipe.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.Led.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.Properties.Resources.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.Switch.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.TextSet.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.TextShow.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\WindowsFormsApp_自定义控件.Toggle.resources
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.csproj.GenerateResource.cache
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.csproj.CoreCompileInputs.cache
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.dll
+J:\自学视频\1C#\喜科堂 郭哥推荐\练习第一遍\GesControl\obj\Debug\GesControl.pdb
